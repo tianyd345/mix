@@ -1,2 +1,3 @@
 # mix
-A mix machine simulator
+This is a TOACP mix simulator. Written by java.
+
